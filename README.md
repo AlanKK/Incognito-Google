@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Incognito Google
 ===========
 
@@ -13,5 +12,4 @@ This is the fastest, simplest, and easiest to use incognito extension.  Others r
 
 This extension was cloned from Reddit-NSFW at https://chrome.google.com/webstore/detail/open-reddit-nsfw-links-in/aedepcllfamehicoifddolbbnmahlkff and modified.  Reddit-NSFW is open source at https://github.com/Kerrick/Reddit-NSFW.
 
-This is also an open source project located at https://github.com/AlanKK/Incognito-Google.
->>>>>>> 0815a4dcc5dbaaaea74ab5e89cf9d9092d8aa2ab
+This project is also open source and is located at https://github.com/AlanKK/Incognito-Google.
