@@ -1,0 +1,21 @@
+{
+    "name": "Handle Google search results in an Incognito Window",
+    "description": "Protect your privacy by openning google searches in an Incognito window.",
+    "short_name" : "Incognito Search Results",
+    "version": "0.2.0",
+    "manifest_version": 2,
+    "icons": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+    },
+    "permissions": [
+        "tabs",
+        "webRequest", "webRequestBlocking",
+        "*://*.google.com/"
+    ],
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": true
+    }
+}
