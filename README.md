@@ -1,9 +1,8 @@
-Incognito Google
-===========
+# Incognito-Google
+==================
 
 A Chrome extension to open Google searches in an incognito window.
-=======
-# Incognito-Google
+
 Open Google search results in an incognito window to protect privacy on links you click
 
 Always open google searches from google.com or from the address bar in an Incognito window.  You will be visiting unknown sites from the google search results page.  Avoid tracking by these sites using an Incognito window.
