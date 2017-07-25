@@ -1,6 +1,6 @@
 {
     "name": "Incognito-Google",
-    "description": "Handle Google search results in an Incognito Window. Protect your privacy by opening google searches in an Incognito window.",
+    "description": "Handle Google search results in an Incognito Window.",
     "short_name" : "Incognito Search Results",
     "version": "0.2.3",
     "manifest_version": 2,
